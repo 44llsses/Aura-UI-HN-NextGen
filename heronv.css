@@ -21,7 +21,6 @@ body {
     z-index: -5;
     backdrop-filter: blur(5px);
     animation: anim 20s infinite alternate ease-in-out;
-    will-change: background-position, transform
 }
 
 
